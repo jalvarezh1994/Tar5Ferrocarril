@@ -17,7 +17,7 @@ public class Tarea5_Jahaziel {
                     + "C-Carros\n"
                     + "D-Ferrocarriles"
                     + "E-Boletos\n"
-                    + "F-Salir");
+                    + "F-Salir macizo");
             
             switch (option){
                 case "a":
