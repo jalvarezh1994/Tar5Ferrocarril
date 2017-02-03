@@ -12,3 +12,5 @@
 hs_err_pid*
 /Tarea2/build/
 /Tarea2/nbproject/private/
+/Tests/build/
+/Tests/nbproject/private/
